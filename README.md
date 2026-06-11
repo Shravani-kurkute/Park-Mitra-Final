@@ -1872,19 +1872,6 @@ We'd love to hear your feedback! Please:
 
 ---
 
-## ⭐ If You Found This Helpful
 
-Please consider:
-- 🌟 Starring the repository
-- 🔗 Sharing with friends and colleagues
-- 💬 Providing feedback and suggestions
-- 🤝 Contributing to the project
 
----
-
-**Made with ❤️ by Shravani Kurkute**
-
-Last Updated: June 2024  
-Status: Active Development  
-Version: 1.0.0
 
